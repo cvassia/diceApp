@@ -1,0 +1,23 @@
+body {
+    background-color: #00c2ff;
+    margin: 0;
+    margin-top: 110px;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+img {
+    width: 400px;
+}
+
+.btn-block {
+    margin: 0 auto;
+    display: block;
+    width: 53%;
+    background-color: #0011ff42;
+    border: none;
+}
